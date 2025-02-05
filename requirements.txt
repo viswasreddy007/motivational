@@ -1,0 +1,6 @@
+pandas
+numpy 
+seaborn
+PIL
+streamlit 
+random
